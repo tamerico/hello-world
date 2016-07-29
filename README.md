@@ -1,3 +1,10 @@
 # hello-world
 apenas um teste de criacao
-esse é um branch
+java
+php
+angularjs
+postgresql
+mysql
+bootstrap
+ionic
+cordova
